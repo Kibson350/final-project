@@ -1,1 +1,1 @@
-// test code update
+tiles.setCurrentTilemap(assets.tilemap`worldSpace`)
