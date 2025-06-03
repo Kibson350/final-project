@@ -5,7 +5,7 @@
 
 ## Project title and description
 
-For our final project, we have recreated Conway's game of life in MakeCode Arcade. This game was created by a British computer scientist named John Horton Conway in 1970, as a simulation of life at its most basic form. This kind of simulation is an automaton that describes the process in which cells interact and multiply.
+For our final project, we have recreated Conway's game of life in MakeCode Arcade. This game was created by a British computer scientist named John Horton Conway in 1970, as a simulation of life at its most basic form. This kind of simulation, an automaton, describes the process in which cells interact and multiply.
 
 
 ## Collaborator (if you are working with another teammate)
