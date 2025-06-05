@@ -9,7 +9,7 @@ For our final project, we have recreated Conway's game of life in MakeCode Arcad
 
 
 ## Collaborator (if you are working with another teammate)
-In this final project, Kiran and Dashel worked together to create this game
+Kiran and Dashel worked together to create this game. 
 
 
 
